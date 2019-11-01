@@ -8,7 +8,33 @@
 		"idle":[
 			{"file":"motions/daiji_idle_01.mtn"}
 		],
-		"":[
+		"tap_head":[
+			{"file":"motions/login.mtn"},
+			{"file":"motions/shake.mtn"},
+			{"file":"motions/touch_1.mtn"},
+			{"file":"motions/touch_2.mtn"},
+			{"file":"motions/touch_3.mtn"},
+			{"file":"motions/touch_4.mtn"},
+			{"file":"motions/touch_5.mtn"},
+			{"file":"motions/wait_1.mtn"},
+			{"file":"motions/wait_2.mtn"},
+			{"file":"motions/wedding.mtn"},
+			{"file":"motions/wedding_touch.mtn"}
+		],
+		"tap_body":[
+			{"file":"motions/login.mtn"},
+			{"file":"motions/shake.mtn"},
+			{"file":"motions/touch_1.mtn"},
+			{"file":"motions/touch_2.mtn"},
+			{"file":"motions/touch_3.mtn"},
+			{"file":"motions/touch_4.mtn"},
+			{"file":"motions/touch_5.mtn"},
+			{"file":"motions/wait_1.mtn"},
+			{"file":"motions/wait_2.mtn"},
+			{"file":"motions/wedding.mtn"},
+			{"file":"motions/wedding_touch.mtn"}
+		],
+		"tap_hand":[
 			{"file":"motions/login.mtn"},
 			{"file":"motions/shake.mtn"},
 			{"file":"motions/touch_1.mtn"},
