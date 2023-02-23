@@ -4,8 +4,6 @@
 
 使用方法详见 : https://www.cnblogs.com/lcyfrog/p/11725534.html 
 
-当然，欢迎您对此项目做出贡献（比如上传l2d模型
-
 ### 澄清
 
 请勿将l2d模型用作商业用途！
